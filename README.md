@@ -1,5 +1,5 @@
 # 🚀 NeoGram
-NeoGram is a high-performance, private third-party Telegram client built on the foundation of Nekogram. This repository is optimized for custom development, featuring tailored modifications for enhanced user experience and security.
+NeoGram is a high-performance, private third-party Telegram client built on the foundation of . This repository is optimized for custom development, featuring tailored modifications for enhanced user experience and security.
 
 
 
