@@ -16,7 +16,7 @@ MTProto protocol manuals: https://core.telegram.org/mtproto
 
 ## Compilation Guide
 
-1. Download the Neogram source code ( `git clone https://github.com/Ferid18/NeoGgram.git` )
+1. Download the Neogram source code ( `git clone https://github.com/Ferid18/NeonGgram.git` )
 1. Fill out storeFile, storePassword, keyAlias, keyPassword in local.properties to access your release.keystore
 1. Go to https://console.firebase.google.com/, create two android apps with application IDs com.neongroup.neogram and com.neongroup.neogram.beta, turn on firebase messaging and download `google-services.json`, which should be copied into `TMessagesProj_App` folder.
 1. Open the project in the Studio (note that it should be opened, NOT imported).
