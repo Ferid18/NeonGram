@@ -1,12 +1,12 @@
 # 🚀 NeoGram
 NeoGram is a high-performance, private third-party Telegram client built on the foundation of Nekogram. This repository is optimized for custom development, featuring tailored modifications for enhanced user experience and security.
 
-[![Crowdin](https://badges.crowdin.net/e/a094217ac83905ae1625526d59bba8dc/localized.svg)](https://neogram.crowdin.com/neogram)  
 
-- Website: https://neogram.app
-- Telegram channel: https://t.me/neogramapp
-- Downloads: https://neogram.app/download
-- Feedback: https://github.com/Neogram/Neogram/issues
+
+
+- Telegram channel: https://t.me/appneogram
+- Downloads: https://t.me/neoapks
+- Feedback: https://github.com/Ferid18/NeonGram
 
 ## API, Protocol documentation
 
@@ -16,7 +16,7 @@ MTProto protocol manuals: https://core.telegram.org/mtproto
 
 ## Compilation Guide
 
-1. Download the Neogram source code ( `git clone https://github.com/Neogram/Neogram.git` )
+1. Download the Neogram source code ( `git clone https://github.com/Ferid18/NeoGgram.git` )
 1. Fill out storeFile, storePassword, keyAlias, keyPassword in local.properties to access your release.keystore
 1. Go to https://console.firebase.google.com/, create two android apps with application IDs com.neongroup.neogram and com.neongroup.neogram.beta, turn on firebase messaging and download `google-services.json`, which should be copied into `TMessagesProj_App` folder.
 1. Open the project in the Studio (note that it should be opened, NOT imported).
@@ -120,4 +120,4 @@ If the relationship is private, missing, pending, or ended, the backend can retu
 
 Neogram is forked from Telegram, thus most locales follows the translations of Telegram for Android, checkout https://translations.telegram.org/en/android/.
 
-As for the Neogram specialized strings, we use Crowdin to translate Neogram. Join project at https://neogram.crowdin.com/neogram. Help us bring Neogram to the world!
+
