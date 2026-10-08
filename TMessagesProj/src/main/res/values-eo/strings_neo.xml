@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AccDescrNeoOfficial">Oficiala Neogram-profilo</string>
+    <string name="NeoOfficialAccount">Oficiala Neogram-konto</string>
+    <string name="NeoOfficialChannel">Oficiala Neogram-kanalo</string>
+    <string name="NeoOfficialAccountInfo">Oficiala Neogram-konto. Ĉi tiu etikedo estas aldonita de Neogram kaj ne estas Telegram-kontrolo.</string>
+    <string name="NeoOfficialChannelInfo">Oficiala Neogram-kanalo. Ĉi tiu etikedo estas aldonita de Neogram kaj ne estas Telegram-kontrolo.</string>
+<!-- Accessibility -->
+        <string name="RelationshipPanelAnniversary">Datreveno</string>
+        <string name="RelationshipPanelConfirmed">Reciproke konfirmita</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d tagoj kune</string>
+        <string name="RelationshipPanelEmptyOtherText">Kiam ĉi tiu uzanto aldonos konfirmitan publikan rilaton, ĝi aperos ĉi tie.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">Neniu publika rilato</string>
+        <string name="RelationshipPanelEmptySelfText">Malfermu la helpan botulon por elekti partneron. Post konfirmo de ambaŭ flankoj, la karto aperos ĉi tie.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">Malfermu %1$s por elekti partneron. Post konfirmo de ambaŭ flankoj, la karto aperos ĉi tie.</string>
+        <string name="RelationshipPanelEmptySelfTitle">Komenci rilaton</string>
+        <string name="RelationshipPanelNote">Videbla en Neogram-profiloj</string>
+        <string name="RelationshipPanelSinceCompact">Ekde %1$s</string>
+        <string name="RelationshipPanelStatus">Tipo</string>
+        <string name="RelationshipPanelStatusDating">Amrilato</string>
+        <string name="RelationshipPanelStatusFriend">Amiko</string>
+        <string name="RelationshipPanelStreak">Sinsekvo</string>
+        <string name="RelationshipPanelStreakValue">%1$d tagoj</string>
+        <string name="RelationshipPanelTitle">Rilato</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; Amiko</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; Rilato</string>
+        <string name="RelationshipPanelTogetherSince">Kune ekde %1$s</string>
+        <string name="RelationshipPanelVisibilityOpen">Videbla por ĉiuj</string>
+        <string name="RelationshipPanelVisibilityPublic">Publika</string>
+        <string name="RelationshipSheetOpenProfile">Malfermi profilon de partnero</string>
+        <string name="RelationshipSheetSinceTitle">Ekde</string>
+        <string name="RelationshipSheetStatusTitle">Tipo</string>
+        <string name="RelationshipSheetSubtitle">Rilataj detaloj videblaj en Neogram</string>
+        <string name="RelationshipSheetTogetherTitle">Kune</string>
+        <string name="RelationshipSheetVisibilityTitle">Videbleco</string>
+        <string name="RelationshipStatusSheetConfirmation">Konfirmo</string>
+        <string name="RelationshipStatusSheetCurrent">Nuna tipo</string>
+        <string name="RelationshipStatusSheetSubtitle">Nuna tipo uzata por ĉi tiu rilatkarto</string>
+        <string name="RelationshipStatusSheetTitle">Rilata tipo</string>
+        <string name="RelationshipStatusSheetVisibility">Videbleco</string>
+</resources>

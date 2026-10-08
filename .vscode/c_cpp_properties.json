@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Android NDK",
+      "compilerPath": "C:/Android/ndk/29.0.14206865/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-clang-x64",
+      "defines": [
+        "__ANDROID__",
+        "ANDROID"
+      ],
+      "includePath": [
+        "${workspaceFolder}/TMessagesProj/jni",
+        "${workspaceFolder}/TMessagesProj/jni/boringssl/include",
+        "C:/Android/ndk/29.0.14206865/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include",
+        "C:/Android/ndk/29.0.14206865/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android"
+      ]
+    }
+  ],
+  "version": 4
+}

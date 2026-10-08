@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AccDescrNeoOfficial">Perfil oficial de Neogram</string>
+    <string name="NeoOfficialAccount">Compte oficial de Neogram</string>
+    <string name="NeoOfficialChannel">Canal oficial de Neogram</string>
+    <string name="NeoOfficialAccountInfo">Compte oficial de Neogram. Aquesta etiqueta la afegeix Neogram i no és una verificació de Telegram.</string>
+    <string name="NeoOfficialChannelInfo">Canal oficial de Neogram. Aquesta etiqueta la afegeix Neogram i no és una verificació de Telegram.</string>
+    <string name="NeoSettings">Neo Settings</string>
+    <string name="MessageMenu">Инетик</string>
+    <string name="HidePhone">Спрятать телефончик</string>
+    <string name="DeleteAllFromSelf">Delete own messages</string>
+    <string name="IgnoreBlocked">Блок</string>
+    <string name="Connection">Инетик</string>
+    <string name="Chat">Банда</string>
+    <string name="NameOrder">Имечко</string>
+    <string name="FirstLast">Ебалась</string>
+    <string name="LastFirst">Last First</string>
+    <!-- Accessibility -->
+        <string name="RelationshipPanelAnniversary">Aniversari</string>
+        <string name="RelationshipPanelConfirmed">Confirmat mútuament</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d dies junts</string>
+        <string name="RelationshipPanelEmptyOtherText">Quan aquest usuari afegeixi una relació pública confirmada, apareixerà aquí.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">Cap relació pública</string>
+        <string name="RelationshipPanelEmptySelfText">Obre el bot auxiliar per triar una parella. Quan tots dos ho confirmin, la targeta apareixerà aquí.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">Obre %1$s per triar una parella. Quan tots dos ho confirmin, la targeta apareixerà aquí.</string>
+        <string name="RelationshipPanelEmptySelfTitle">Comença una relació</string>
+        <string name="RelationshipPanelNote">Visible als perfils de Neogram</string>
+        <string name="RelationshipPanelSinceCompact">Des de %1$s</string>
+        <string name="RelationshipPanelStatus">Tipus</string>
+        <string name="RelationshipPanelStatusDating">Sortint</string>
+        <string name="RelationshipPanelStatusFriend">Amic</string>
+        <string name="RelationshipPanelStreak">Ratxa</string>
+        <string name="RelationshipPanelStreakValue">%1$d dies</string>
+        <string name="RelationshipPanelTitle">Relació</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; Amic</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; Relació</string>
+        <string name="RelationshipPanelTogetherSince">Junts des de %1$s</string>
+        <string name="RelationshipPanelVisibilityOpen">Visible per a tothom</string>
+        <string name="RelationshipPanelVisibilityPublic">Pública</string>
+        <string name="RelationshipSheetOpenProfile">Obre el perfil de la parella</string>
+        <string name="RelationshipSheetSinceTitle">Des de</string>
+        <string name="RelationshipSheetStatusTitle">Tipus</string>
+        <string name="RelationshipSheetSubtitle">Detalls de la relació visibles a Neogram</string>
+        <string name="RelationshipSheetTogetherTitle">Junts</string>
+        <string name="RelationshipSheetVisibilityTitle">Visibilitat</string>
+        <string name="RelationshipStatusSheetConfirmation">Confirmació</string>
+        <string name="RelationshipStatusSheetCurrent">Tipus actual</string>
+        <string name="RelationshipStatusSheetSubtitle">Tipus actual utilitzat per a aquesta targeta de relació</string>
+        <string name="RelationshipStatusSheetTitle">Tipus de relació</string>
+        <string name="RelationshipStatusSheetVisibility">Visibilitat</string>
+</resources>

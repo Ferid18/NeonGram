@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="formatterGiveawayMonthDay">d MMMM</string>
+    <string name="formatterGiveawayMonthDayYear">d MMMM yyyy</string>
+    <string name="formatterMonthYear">MMMM yyyy</string>
+    <string name="formatterMonthOnly">MMMM</string>
+    <string name="formatterMonth">d MMM</string>
+    <string name="formatDateSchedule">d MMM</string>
+    <string name="formatDateScheduleYear">d MMM yyyy</string>
+</resources>

@@ -1,0 +1,2 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/code_laptop,@raw/sms_incoming_info,@raw/phone_stars_to_dots,@raw/phone_dots,@raw/phone_dots_to_stars,@raw/tab_music,@raw/tab_music_reverse,@drawable/files_music" />

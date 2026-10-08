@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!neon-robot/
+!neon-robot/**
+neon-robot/.env
+neon-robot/__pycache__/
+neon-robot/**/*.pyc

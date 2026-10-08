@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AccDescrNeoOfficial">פרופיל Neogram רשמי</string>
+    <string name="NeoOfficialAccount">חשבון Neogram רשמי</string>
+    <string name="NeoOfficialChannel">ערוץ Neogram רשמי</string>
+    <string name="NeoOfficialAccountInfo">חשבון Neogram רשמי. תווית זו נוספה על ידי Neogram ואינה אימות של Telegram.</string>
+    <string name="NeoOfficialChannelInfo">ערוץ Neogram רשמי. תווית זו נוספה על ידי Neogram ואינה אימות של Telegram.</string>
+<!-- Accessibility -->
+        <string name="RelationshipPanelAnniversary">יום שנה</string>
+        <string name="RelationshipPanelConfirmed">אושר על ידי שני הצדדים</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d ימים יחד</string>
+        <string name="RelationshipPanelEmptyOtherText">כאשר משתמש זה יוסיף קשר ציבורי מאושר, הוא יופיע כאן.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">אין קשר ציבורי</string>
+        <string name="RelationshipPanelEmptySelfText">פתחו את בוט העזר כדי לבחור שותף. לאחר אישור שני הצדדים, הכרטיס יופיע כאן.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">פתחו את %1$s כדי לבחור שותף. לאחר אישור שני הצדדים, הכרטיס יופיע כאן.</string>
+        <string name="RelationshipPanelEmptySelfTitle">התחלת קשר</string>
+        <string name="RelationshipPanelNote">גלוי בפרופילי Neogram</string>
+        <string name="RelationshipPanelSinceCompact">מאז %1$s</string>
+        <string name="RelationshipPanelStatus">סוג</string>
+        <string name="RelationshipPanelStatusDating">זוגיות</string>
+        <string name="RelationshipPanelStatusFriend">חבר</string>
+        <string name="RelationshipPanelStreak">רצף</string>
+        <string name="RelationshipPanelStreakValue">%1$d ימים</string>
+        <string name="RelationshipPanelTitle">קשר</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; חבר</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; קשר</string>
+        <string name="RelationshipPanelTogetherSince">יחד מאז %1$s</string>
+        <string name="RelationshipPanelVisibilityOpen">גלוי לכולם</string>
+        <string name="RelationshipPanelVisibilityPublic">ציבורי</string>
+        <string name="RelationshipSheetOpenProfile">פתיחת פרופיל השותף</string>
+        <string name="RelationshipSheetSinceTitle">מאז</string>
+        <string name="RelationshipSheetStatusTitle">סוג</string>
+        <string name="RelationshipSheetSubtitle">פרטי הקשר גלויים ב-Neogram</string>
+        <string name="RelationshipSheetTogetherTitle">יחד</string>
+        <string name="RelationshipSheetVisibilityTitle">נראות</string>
+        <string name="RelationshipStatusSheetConfirmation">אישור</string>
+        <string name="RelationshipStatusSheetCurrent">סוג נוכחי</string>
+        <string name="RelationshipStatusSheetSubtitle">הסוג הנוכחי המשמש לכרטיס קשר זה</string>
+        <string name="RelationshipStatusSheetTitle">סוג קשר</string>
+        <string name="RelationshipStatusSheetVisibility">נראות</string>
+</resources>

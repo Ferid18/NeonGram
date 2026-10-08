@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AccDescrNeoOfficial">Расмий Neogram профили</string>
+    <string name="NeoOfficialAccount">Расмий Neogram аккаунту</string>
+    <string name="NeoOfficialChannel">Расмий Neogram каналы</string>
+    <string name="NeoOfficialAccountInfo">Расмий Neogram аккаунту. Бул белги Neogram тарабынан кошулган жана Telegram текшерүүсү эмес.</string>
+    <string name="NeoOfficialChannelInfo">Расмий Neogram каналы. Бул белги Neogram тарабынан кошулган жана Telegram текшерүүсү эмес.</string>
+    <string name="NeoSettings">Neo Settings</string>
+    <!-- Accessibility -->
+        <string name="RelationshipPanelAnniversary">Жылдыгы</string>
+        <string name="RelationshipPanelConfirmed">Эки тарап тең ырастады</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d күн бирге</string>
+        <string name="RelationshipPanelEmptyOtherText">Бул колдонуучу ырасталган ачык мамиле кошкондо, карта бул жерде көрүнөт.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">Ачык мамиле жок</string>
+        <string name="RelationshipPanelEmptySelfText">Өнөктөш тандоо үчүн жардамчы ботту ачыңыз. Эки тарап тең ырастагандан кийин карта бул жерде көрүнөт.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">Өнөктөш тандоо үчүн %1$s ачыңыз. Эки тарап тең ырастагандан кийин карта бул жерде көрүнөт.</string>
+        <string name="RelationshipPanelEmptySelfTitle">Мамиле баштоо</string>
+        <string name="RelationshipPanelNote">Neogram профилдеринде көрүнөт</string>
+        <string name="RelationshipPanelSinceCompact">%1$s бери</string>
+        <string name="RelationshipPanelStatus">Түрү</string>
+        <string name="RelationshipPanelStatusDating">Сүйлөшүү</string>
+        <string name="RelationshipPanelStatusFriend">Дос</string>
+        <string name="RelationshipPanelStreak">Катары</string>
+        <string name="RelationshipPanelStreakValue">%1$d күн</string>
+        <string name="RelationshipPanelTitle">Мамиле</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; Дос</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; Мамиле</string>
+        <string name="RelationshipPanelTogetherSince">%1$s бери бирге</string>
+        <string name="RelationshipPanelVisibilityOpen">Баарына көрүнөт</string>
+        <string name="RelationshipPanelVisibilityPublic">Ачык</string>
+        <string name="RelationshipSheetOpenProfile">Өнөктөш профилин ачуу</string>
+        <string name="RelationshipSheetSinceTitle">Бери</string>
+        <string name="RelationshipSheetStatusTitle">Түрү</string>
+        <string name="RelationshipSheetSubtitle">Neogram ичинде көрүнгөн мамиле маалыматтары</string>
+        <string name="RelationshipSheetTogetherTitle">Бирге</string>
+        <string name="RelationshipSheetVisibilityTitle">Көрүнүү</string>
+        <string name="RelationshipStatusSheetConfirmation">Ырастоо</string>
+        <string name="RelationshipStatusSheetCurrent">Учурдагы түр</string>
+        <string name="RelationshipStatusSheetSubtitle">Бул мамиле картасы үчүн колдонулган учурдагы түр</string>
+        <string name="RelationshipStatusSheetTitle">Мамиле түрү</string>
+        <string name="RelationshipStatusSheetVisibility">Көрүнүү</string>
+</resources>

@@ -1,0 +1,57 @@
+# Android
+.idea/
+.gradle/
+build/
+bin/
+gen/
+out/
+captures/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+.gradle-user/
+build/
+*.gradle.bak
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local tool/runtime caches
+.android-user/
+.android-user2/
+.sixth/
+
+# Project specific
+obj/
+# local.properties
+# keystore/
+# *.jks
+# *.keystore
+TMessagesProj/.cxx/
+TMessagesProj/jniLibs/
+TMessagesProj/jniRes/
+**/.DS_Store
+TMessagesProj/afat/
+TMessagesProj_App/afat/
+TMessagesProj_AppHockeyApp/afat/
+TMessagesProj_AppStandalone/afat/
+TMessagesProj_AppHuawei/afat/
+
+# Config files (keeping variables mentioned by user)
+# google-services.json
+# sentry.properties
+
+# Logs and extras
+*.log
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Neon Robot Ignores
+neon-robot/__pycache__/
+neon-robot/venv/
+neon-robot/*.log

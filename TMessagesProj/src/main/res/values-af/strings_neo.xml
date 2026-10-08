@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AccDescrNeoOfficial">Amptelike Neogram-profiel</string>
+    <string name="NeoOfficialAccount">Amptelike Neogram-rekening</string>
+    <string name="NeoOfficialChannel">Amptelike Neogram-kanaal</string>
+    <string name="NeoOfficialAccountInfo">Amptelike Neogram-rekening. Hierdie etiket word deur Neogram bygevoeg en is nie Telegram-verifikasie nie.</string>
+    <string name="NeoOfficialChannelInfo">Amptelike Neogram-kanaal. Hierdie etiket word deur Neogram bygevoeg en is nie Telegram-verifikasie nie.</string>
+<!-- Accessibility -->
+        <string name="RelationshipPanelAnniversary">Herdenking</string>
+        <string name="RelationshipPanelConfirmed">Wedersyds bevestig</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d dae saam</string>
+        <string name="RelationshipPanelEmptyOtherText">Wanneer hierdie gebruiker n bevestigde openbare verhouding byvoeg, sal dit hier verskyn.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">Geen openbare verhouding</string>
+        <string name="RelationshipPanelEmptySelfText">Maak die helper-bot oop om n maat te kies. Nadat albei kante bevestig, sal die kaart hier verskyn.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">Maak %1$s oop om n maat te kies. Nadat albei kante bevestig, sal die kaart hier verskyn.</string>
+        <string name="RelationshipPanelEmptySelfTitle">Begin n verhouding</string>
+        <string name="RelationshipPanelNote">Sigbaar in Neogram-profiele</string>
+        <string name="RelationshipPanelSinceCompact">Sedert %1$s</string>
+        <string name="RelationshipPanelStatus">Tipe</string>
+        <string name="RelationshipPanelStatusDating">Uitgaan</string>
+        <string name="RelationshipPanelStatusFriend">Vriend</string>
+        <string name="RelationshipPanelStreak">Reeks</string>
+        <string name="RelationshipPanelStreakValue">%1$d dae</string>
+        <string name="RelationshipPanelTitle">Verhouding</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; Vriend</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; Verhouding</string>
+        <string name="RelationshipPanelTogetherSince">Saam sedert %1$s</string>
+        <string name="RelationshipPanelVisibilityOpen">Sigbaar vir almal</string>
+        <string name="RelationshipPanelVisibilityPublic">Openbaar</string>
+        <string name="RelationshipSheetOpenProfile">Maak maatprofiel oop</string>
+        <string name="RelationshipSheetSinceTitle">Sedert</string>
+        <string name="RelationshipSheetStatusTitle">Tipe</string>
+        <string name="RelationshipSheetSubtitle">Verhoudingsbesonderhede sigbaar in Neogram</string>
+        <string name="RelationshipSheetTogetherTitle">Saam</string>
+        <string name="RelationshipSheetVisibilityTitle">Sigbaarheid</string>
+        <string name="RelationshipStatusSheetConfirmation">Bevestiging</string>
+        <string name="RelationshipStatusSheetCurrent">Huidige tipe</string>
+        <string name="RelationshipStatusSheetSubtitle">Huidige tipe wat vir hierdie verhoudingskaart gebruik word</string>
+        <string name="RelationshipStatusSheetTitle">Verhoudingstipe</string>
+        <string name="RelationshipStatusSheetVisibility">Sigbaarheid</string>
+</resources>

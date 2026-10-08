@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="RelationshipPanelTitle">Münasibət</string>
+        <string name="RelationshipPanelTitleRomantic">&#128158; Münasibət</string>
+        <string name="RelationshipPanelTitleFriend">&#129730; Dost</string>
+        <string name="RelationshipPanelVisibilityPublic">Açıq</string>
+        <string name="RelationshipPanelVisibilityOpen">Hər kəsə görünür</string>
+        <string name="RelationshipPanelConfirmed">Qarşılıqlı təsdiqlənib</string>
+        <string name="RelationshipPanelTogetherSince">%1$s tarixindən bəri birlikdəsiniz</string>
+        <string name="RelationshipPanelSinceCompact">%1$s tarixindən bəri</string>
+        <string name="RelationshipPanelDuration">&#10084; %1$d gündür birlikdəsiniz</string>
+        <string name="RelationshipPanelNote">Neogram profillərində görünür</string>
+        <string name="RelationshipPanelStreak">Birlik</string>
+        <string name="RelationshipPanelStreakValue">%1$d gün</string>
+        <string name="RelationshipPanelAnniversary">Yıldönümü</string>
+        <string name="RelationshipPanelStatus">Növ</string>
+        <string name="RelationshipPanelStatusDating">Sevgili</string>
+        <string name="RelationshipPanelStatusFriend">Dost</string>
+        <string name="RelationshipSheetSubtitle">Neogram-da görünən münasibət detalları</string>
+        <string name="RelationshipSheetSinceTitle">Başlanğıc</string>
+        <string name="RelationshipSheetTogetherTitle">Birlikdə</string>
+        <string name="RelationshipSheetVisibilityTitle">Görünürlük</string>
+        <string name="RelationshipSheetStatusTitle">Növ</string>
+        <string name="RelationshipSheetOpenProfile">Partner profilini aç</string>
+        <string name="RelationshipStatusSheetTitle">Münasibət növü</string>
+        <string name="RelationshipStatusSheetSubtitle">Bu münasibət kartında istifadə olunan cari növ</string>
+        <string name="RelationshipStatusSheetCurrent">Cari növ</string>
+        <string name="RelationshipStatusSheetConfirmation">Təsdiq</string>
+        <string name="RelationshipStatusSheetVisibility">Görünürlük</string>
+        <string name="RelationshipPanelEmptyOtherText">Bu istifadəçi təsdiqlənmiş açıq münasibət əlavə edəndə kart burada görünəcək.</string>
+        <string name="RelationshipPanelEmptyOtherTitle">Açıq münasibət yoxdur</string>
+        <string name="RelationshipPanelEmptySelfText">Partner seçmək üçün helper botu aç. Hər iki tərəf təsdiqləyəndən sonra kart burada görünəcək.</string>
+        <string name="RelationshipPanelEmptySelfTextWithBot">Partner seçmək üçün %1$s botunu aç. Hər iki tərəf təsdiqləyəndən sonra kart burada görünəcək.</string>
+        <string name="RelationshipPanelEmptySelfTitle">Münasibət yarat</string>
+        <string name="OfficialChannelUsername">appneogram</string>
+        <string name="ViewSourceCode">Neogram&#305; y&#252;kl&#601;</string>
+</resources>
